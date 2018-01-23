@@ -17,4 +17,3 @@ OBJECTIVES
 
 ******SOME HYPOTHETICAL EXAMPLES OF DCA LEVELS AND THE IMPACT OF DIFFERENT STRATEGIES CAN BE SEEN HERE******
 https://www.dropbox.com/s/vh7jfx16cnw2t3k/BagScience%20Basics%20%28DCA%20protection%20levels%29.pdf?dl=0
-
