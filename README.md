@@ -1,6 +1,6 @@
 # Profit-Trailer-Calculation-docs
 
-*******PROFIT TRAILER CALCULATION DOCUMENTSS*******
+*******PROFIT TRAILER CALCULATION DOCUMENTS*******
 
 DAVEYBAGS DCA CALCULATOR V2.0.0;
 https://www.dropbox.com/s/fjosnh57wjd3kl7/DAVEYBAGS_DCA_Calculator%20v2.0.0.xlsx?dl=0
